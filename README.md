@@ -6,7 +6,7 @@
 ```js
 export const Luck = {
   working_on: ["AstricHosting", "RadiantBot"],
-  languages: ["Javascript (ES6)", "C++"],
+  languages: ["Node.JS", "C++"],
   selfhosted: {
     administration: ["Portainer", "NGINX Proxy Manager"],
     cloud: ["Bitwarden", "Nextcloud"],
@@ -14,7 +14,7 @@ export const Luck = {
   },
   technologies: {
     frontend: {
-      // Empty :(
+      // Yeah, no.
     },
     games: ["Minecraft", "Rocket League", "CS-GO", "Overwatch", "osu!", "Valorant"], // Pretty boring, huh?
     backend: {
