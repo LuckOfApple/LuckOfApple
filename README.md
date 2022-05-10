@@ -22,4 +22,4 @@ export const Luck = {
 }
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ansele15&cover_image=true&theme=default&bar_color=d32ccf&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Discord Presence](https://lanyard.cnrad.dev/api/753091534496333855)](https://discord.com/users/753091534496333855)
