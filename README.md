@@ -1,8 +1,5 @@
 ### Hi there! I'm Luck, or Lune 👋
 
-`CEO` @ https://astrichosting.com
-`Manager` @ https://radiantcheats.net
-
 ```js
 export const Luck = {
   working_on: ["AstricHosting", "RadiantBot"],
@@ -14,13 +11,13 @@ export const Luck = {
   },
   technologies: {
     frontend: {
-      // Yeah, no.
+      // Yeah, nope.
     },
-    games: ["Minecraft", "Rocket League", "CS-GO", "Overwatch", "osu!", "Valorant"], // Pretty boring, huh?
     backend: {
       js: ["Discord.js", "Node.js"]
     },
-    databases: ["MongoDB", "SQLite", "MySQL"]
+    databases: ["MongoDB", "SQLite", "MySQL"],
+    other: ["Ubuntu"]
   }
 }
 ```
