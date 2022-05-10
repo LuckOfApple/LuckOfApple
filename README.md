@@ -1,5 +1,7 @@
 ### Hi there! I'm Luck, or Lune 👋
 
+Currently being down bad.
+
 ```js
 export const Luck = {
   working_on: ["AstricHosting", "RadiantBot"],
