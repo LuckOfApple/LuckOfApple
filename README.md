@@ -1,6 +1,6 @@
 ### Hi there! I'm Luck, or Lune 👋
 
-Currently being down bad.
+Currently being down bad especially for Chizuru.
 
 ```js
 export const Luck = {
