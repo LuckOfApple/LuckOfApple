@@ -25,3 +25,4 @@ export const Luck = {
 ```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/753091534496333855)](https://discord.com/users/753091534496333855)
+[![Discord Presence](https://lanyard.cnrad.dev/api/978667580602605628)](https://discord.com/users/978667580602605628)
