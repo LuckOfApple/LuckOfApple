@@ -2,22 +2,10 @@
 
 ```js
 export const Luck = {
-  working_on: ["AstricHosting", "RadiantBot"],
+  working_on: ["RBV2"],
   languages: ["Node.JS", "C++"],
-  selfhosted: {
-    administration: ["Portainer", "NGINX Proxy Manager"],
-    cloud: ["Bitwarden", "Nextcloud"],
-    media: ["Plex"]
-  },
-  technologies: {
-    frontend: {
-      // Yeah, nope.
-    },
-    backend: {
-      js: ["Discord.js", "Node.js"]
-    },
-    databases: ["MongoDB", "SQLite", "MySQL"],
-    other: ["Ubuntu"]
+  attr: {
+    "feeling
   }
 }
 ```
