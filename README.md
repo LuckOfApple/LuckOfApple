@@ -5,7 +5,8 @@ export const Luck = {
   working_on: ["RBV2"],
   languages: ["Node.JS", "C++"],
   attr: {
-    "feeling
+    feeling: "tired",
+    sleepiness: 10
   }
 }
 ```
